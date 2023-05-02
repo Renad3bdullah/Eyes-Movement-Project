@@ -8,7 +8,8 @@ Use Visual Studio Code to run the files
 
 
 ## Future Improvements 
-add more styles, such as different color for each, set a background.
+add more styles, set a background.
+make eyes blinks when the mouse cursor touch it.
 
 ## License
 
